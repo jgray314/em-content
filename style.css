@@ -1,0 +1,228 @@
+/* ============================================================
+   Minimal, technical, readable — for long-form engineering
+   leadership writing. Cool neutrals, one steel-teal accent,
+   monospace reserved for metadata/tags only. Supports light
+   and dark mode via prefers-color-scheme, with a manual
+   [data-theme] override for sites with a theme toggle.
+   ============================================================ */
+
+:root {
+  --content-width: 680px;
+
+  /* Light mode (default) */
+  --bg: #f9fafb;
+  --bg-raised: #f1f3f5;
+  --text: #14181f;
+  --muted: #5b6470;
+  --border: #dde1e6;
+  --accent: #2f6f76;
+  --accent-tint: #e3eeee;
+
+  --font-sans: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", ui-monospace, Menlo, Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #10131a;
+    --bg-raised: #171b23;
+    --text: #e7e9ee;
+    --muted: #8b93a1;
+    --border: #232833;
+    --accent: #5fa8ae;
+    --accent-tint: #17282a;
+  }
+}
+
+/* Manual override, e.g. <html data-theme="dark"> or "light" */
+[data-theme="light"] {
+  --bg: #f9fafb;
+  --bg-raised: #f1f3f5;
+  --text: #14181f;
+  --muted: #5b6470;
+  --border: #dde1e6;
+  --accent: #2f6f76;
+  --accent-tint: #e3eeee;
+}
+
+[data-theme="dark"] {
+  --bg: #10131a;
+  --bg-raised: #171b23;
+  --text: #e7e9ee;
+  --muted: #8b93a1;
+  --border: #232833;
+  --accent: #5fa8ae;
+  --accent-tint: #17282a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+main, article, .post {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 6rem;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-sans);
+  font-weight: 650;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.75rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin: 2.75rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin: 2rem 0 0.75rem;
+}
+
+p {
+  margin: 0 0 1.25rem;
+  max-width: 68ch;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.15s ease;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration-color: var(--accent);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+blockquote {
+  margin: 1.75rem 0;
+  padding: 0.1rem 0 0.1rem 1.25rem;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+}
+
+blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+ul, ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.4rem;
+  max-width: 68ch;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: var(--bg-raised);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.75rem 0;
+  font-size: 0.95rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+th {
+  font-weight: 650;
+  color: var(--muted);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 3rem 0;
+}
+
+/* ---- Post metadata: the one place monospace shows up ---- */
+
+.post-meta {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin: 0 0 2.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.post-meta .date {
+  color: var(--muted);
+}
+
+.post-meta .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.post-meta .tags span {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+@media (max-width: 700px) {
+  body {
+    font-size: 16.5px;
+  }
+  main, article, .post {
+    padding: 2.25rem 1.25rem 3.5rem;
+  }
+  h1 {
+    font-size: 1.65rem;
+  }
+}
