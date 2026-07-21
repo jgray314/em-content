@@ -8,7 +8,7 @@ A collection of essays on engineering leadership, organizational design, and sca
 |---|---|---|
 | 2025-03-11 | [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) | leadership, organizational-design |
 | 2025-03-18 | [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) | leadership, organizational-design |
-| 202604-07 | [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2026-04-07-dunbar-numbers-and-scaling-organizations.md) | scaling, organizational-design, dunbar-number |
+| 2026-04-07 | [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2026-04-07-dunbar-numbers-and-scaling-organizations.md) | scaling, organizational-design, dunbar-number |
 
 ## Series
 
