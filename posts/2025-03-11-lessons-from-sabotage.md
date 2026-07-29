@@ -3,8 +3,7 @@ title: "Lessons from Sabotage"
 date: 2025-03-11
 tags: [leadership, organizational-design, management]
 author: Jessica Gray
-series: "Simpl.e Sabotage"
-series_part: 1
+series: "Simple Sabotage"
 ---
 
 # Lessons from Sabotage
