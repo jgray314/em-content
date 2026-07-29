@@ -1,3 +1,9 @@
+---
+title: "Empathy and the Hiring Process"
+date: 2026-07-29
+tags: [hiring, recruiting. engineering-management, leadership, ai]
+author: Jessica Gray
+---
 # Empathy and the Hiring Process
 
 Over the last two years, I've been a hiring manager, a candidate, and worked closely with recruiters. One observation keeps coming back to me: every participant in hiring believes the system is failing them—and they're all right.
