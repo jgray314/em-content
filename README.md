@@ -8,8 +8,8 @@ A collection of essays on engineering leadership, organizational design, and sca
 |---|---|---|
 | 2026-07-29 | [Empathy and the Hiring Process](./posts/2026-07-29-empathy-and-the-hiring-process) | hiring, recruiting, engineering-management, leadership, ai |
 | 2026-04-07 | [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2026-04-07-dunbar-numbers-and-scaling-organizations.md) | scaling, organizational-design, dunbar-number, leadership, ai |
-| 2025-03-18 | [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) | leadership, organizational-design |
-| 2025-03-11 | [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) | leadership, organizational-design |
+| 2025-03-18 | [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) | leadership, organizational-design, management |
+| 2025-03-11 | [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) | leadership, organizational-design, management |
 
 ## Series
 

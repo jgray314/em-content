@@ -1,7 +1,7 @@
 ---
 title: "Empathy and the Hiring Process"
 date: 2026-07-29
-tags: [hiring, recruiting. engineering-management, leadership, ai]
+tags: [hiring, recruiting, engineering-management, leadership, ai]
 author: Jessica Gray
 ---
 # Empathy and the Hiring Process
