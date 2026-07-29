@@ -17,8 +17,7 @@ A collection of essays on engineering leadership, organizational design, and sca
 1. [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) — individual behaviors: cooperation, motivation, and infrastructure.
 2. [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) — institutionalized sabotage: process, decision-making, and management dysfunction.
 
-**Dunbar Numbers** — Why organizations break at predictable sizes, and what that means for structure, tooling, and (eventually) AI.
-- [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2025-04-07-ddunbar-numbers-and-scaling-organizations.md)
+
 
 ## Structure
 
