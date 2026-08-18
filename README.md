@@ -6,6 +6,7 @@ A collection of essays on engineering leadership, organizational design, and sca
 
 | Date | Title | Tags |
 |---|---|---|
+| 2026-08-18 | [Applying the Hiring Funnel](./posts/2026-08-18-applying-the-hiring-funnel.md) | hiring, recruiting, engineering-management, leadership |
 | 2026-07-29 | [Empathy and the Hiring Process](./posts/2026-07-29-empathy-and-the-hiring-process) | hiring, recruiting, engineering-management, leadership, ai |
 | 2026-04-07 | [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2026-04-07-dunbar-numbers-and-scaling-organizations.md) | scaling, organizational-design, dunbar-number, leadership, ai |
 | 2025-03-18 | [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) | leadership, organizational-design, management |
