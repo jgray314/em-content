@@ -1,7 +1,9 @@
 ---
 title: "How Organizations Sabotage Themselves"
-date: 2025-03-18
-tags: [leadership, organizational-design, management]
+<div class="post-meta">
+  <span class="date">2025-03-18</span>
+  <span class="tags"><span>leadership</span><span>organizational-design</span><span>management</span></span>
+</div>
 author: Jessica Gray
 series: "Simple Sabotage"
 series_part: 2
