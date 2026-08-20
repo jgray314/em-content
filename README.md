@@ -2,6 +2,19 @@
 
 A collection of essays on engineering leadership, organizational design, and scaling teams. Originally written for LinkedIn; migrated here for a more durable, versioned home. Structured so it can be pushed to a Ghost blog or static site later with minimal changes.
 
+## Series
+
+**Simple Sabotage** — What a WWII field manual on how to sabotage an organization from the inside teaches about running one well.
+1. [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) — individual behaviors: cooperation, motivation, and infrastructure.
+2. [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) — institutionalized sabotage: process, decision-making, and management dysfunction.
+
+**Re:Work Research on Management** - An overview of what research shows matters for managers, what it might mean with the rise of AI, and practical things to keep in mind for managers.
+1. [Research Driven Management](./posts/2026-09-01-research-driven-management.md) - why the research matters and what it studied
+2. [A Manager's Most Important Work](./posts/2026-09-08-a-managers-most-important-work.md) - the people behaviors that move teams
+3. [Getting Things Done](./posts/2026-09-15-getting-things-done.md) - the execution behaviors behind results
+4. [The Role of Technical Depth](./posts/2026-09-22-the-role-of-technical-depth.md) - where domain skill actually fits
+5. [New Manager Traps](./posts/2026-09-29-new-manager-traps.md) - pitfalls on the IC-to-manager jump
+
 ## Posts
 
 | Date | Title | Tags |
@@ -17,19 +30,6 @@ A collection of essays on engineering leadership, organizational design, and sca
 | 2026-04-07 | [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2026-04-07-dunbar-numbers-and-scaling-organizations.md) | scaling, organizational-design, dunbar-number, leadership, ai |
 | 2025-03-18 | [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) | leadership, organizational-design, management |
 | 2025-03-11 | [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) | leadership, organizational-design, management |
-
-## Series
-
-**Simple Sabotage** — What a WWII field manual on how to sabotage an organization from the inside teaches about running one well.
-1. [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) — individual behaviors: cooperation, motivation, and infrastructure.
-2. [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) — institutionalized sabotage: process, decision-making, and management dysfunction.
-
-** Re:Work Research on Management ** An overview of what research shows matters for managers, what it might mean with the rise of AI, and practical things to keep in mind for managers.
-1. [Research Driven Management](./posts/2026-09-01-research-driven-management.md) - why the research matters and what it studied
-2. [A Manager's Most Important Work](./posts/2026-09-08-a-managers-most-important-work.md) - the people behaviors that move teams
-3. [Getting Things Done](./posts/2026-09-15-getting-things-done.md) - the execution behaviors behind results
-4. [The Role of Technical Depth](./posts/2026-09-22-the-role-of-technical-depth.md) - where domain skill actually fits
-5. [New Manager Traps](./posts/2026-09-29-new-manager-traps.md) - pitfalls on the IC-to-manager jump
 
 ## Structure
 
