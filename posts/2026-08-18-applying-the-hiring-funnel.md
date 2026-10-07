@@ -10,7 +10,7 @@ One of the perspective flips that is most surprising when you become a hiring ma
 
 As a hiring manager, you are aiming to make an offer and have it accepted and your efforts and those of your recruiter are pointed to that goal. But the expectation is that you are tracking your progress towards that goal and actively debugging the process. How is that done? The hiring funnel.
 
-![Example Hiring Funnel Image](./HiringFunnel.png)
+![Hiring funnel pyramid from bottom to top: 20+ referrals or 100+ applications (more typically 3–5x that), 9–90 hiring manager and/or recruiter screens, 6–18 technical screens, 4–8 full loops, 1–2 offers, 1 accept](./HiringFunnel.png)
 
 *An example hiring funnel*
 
