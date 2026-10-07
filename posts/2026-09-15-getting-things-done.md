@@ -1,7 +1,7 @@
 ---
 title: "Getting Things Done"
 date: 2026-09-15
-tags: [management, productivity, communication, vision, engineering-leadership]
+tags: [management, ai, project-oxygen, productivity]
 author: Jessica Gray
 ---
 # Getting Things Done

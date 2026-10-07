@@ -1,7 +1,7 @@
 ---
 title: "New Manager Traps"
 date: 2026-09-29
-tags: [management, new-managers, career-development, engineering-leadership]
+tags: [management, engineering-leadership, new-managers, career-development]
 author: Jessica Gray
 ---
 

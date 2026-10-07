@@ -1,7 +1,7 @@
 ---
 title: "The Role of Technical Depth"
 date: 2026-09-22
-tags: [management, technical-leadership, engineering-management, decision-making, collaboration]
+tags: [management, ai, project-oxygen, decision-making]
 author: Jessica Gray
 ---
 

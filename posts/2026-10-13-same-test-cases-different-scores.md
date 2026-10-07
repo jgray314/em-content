@@ -1,7 +1,7 @@
 ---
 title: "Same Test Cases, Different Scores"
 date: 2026-10-13
-tags: [ai, evaluation, verification, engineering-leadership, jscc]
+tags: [ai, engineering-leadership, evaluation, verification]
 author: Jessica Gray
 ---
 

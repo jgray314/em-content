@@ -1,10 +1,7 @@
 ---
 title: "Dunbar Numbers and the Shape of Scaling Organizations"
-<div class="post-meta">
-  <span class="date">2026-04-07</span>
-  <span class="tags"><span>leadership</span><span>organizational-design</span><span>management</span></span>
-</div>
-tags: [organizational-design, leadership, scaling, dunbar-number, ai]
+date: 2026-04-07
+tags: [organizational-design, ai, scaling, dunbar-number]
 author: Jessica Gray
 ---
 

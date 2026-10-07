@@ -1,9 +1,11 @@
 ---
 title: "When Candidates Ask About Tech Debt"
 date: 2026-08-25
-tags: [recruiting, engineering-leadership, technical-debt, hiring, tech-recruiting]
+tags: [hiring, engineering-leadership, recruiting, technical-debt]
 author: Jessica Gray
 ---
+
+# When Candidates Ask About Tech Debt
 
 *Recruiters increasingly get asked about tech debt in candidate screens. Most don't know how to answer.*
 

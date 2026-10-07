@@ -1,7 +1,7 @@
 ---
 title: "Applying the Hiring Funnel"
 date: 2026-08-18
-tags: [hiring, recruiting, engineering-management, leadership]
+tags: [hiring, recruiting]
 author: Jessica Gray
 ---
 # Applying the Hiring Funnel
