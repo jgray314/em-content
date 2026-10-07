@@ -1,6 +1,6 @@
 # Writing
 
-A collection of essays on engineering leadership, organizational design, and scaling teams. Originally written for LinkedIn; migrated here for a more durable, versioned home. Structured so it can be pushed to a Ghost blog or static site later with minimal changes.
+A collection of essays on engineering leadership, organizational design, scaling teams, and building with AI. Originally written for LinkedIn; migrated here for a more durable, versioned home. Structured so it can be pushed to a Ghost blog or static site later with minimal changes.
 
 ## Series
 
@@ -19,6 +19,7 @@ A collection of essays on engineering leadership, organizational design, and sca
 
 | Date | Title | Tags |
 |---|---|---|
+| 2026-10-13 | [Same Test Cases, Different Scores](./posts/2026-10-13-same-test-cases-different-scores.md) | ai, evaluation, verification, engineering-leadership, jscc |
 | 2026-09-29 | [New Manager Traps](./posts/2026-09-29-new-manager-traps.md) | management, new-managers, career-development, engineering-leadership |
 | 2026-09-22 | [The Role of Technical Depth](./posts/2026-09-22-the-role-of-technical-depth.md) | management, technical-leadership, engineering-management, decision-making, collaboration |
 | 2026-09-15 | [Getting Things Done](./posts/2026-09-15-getting-things-done.md) | management, productivity, communication, vision, engineering-leadership |
@@ -26,7 +27,7 @@ A collection of essays on engineering leadership, organizational design, and sca
 | 2026-09-01 | [Research Driven Management](./posts/2026-09-01-research-driven-management.md) | management, engineering-leadership, project-oxygen, google, ai |
 | 2026-08-25 | [When Candidates Ask About Tech Debt](./posts/2026-08-25-when-candidates-ask-about-tech-debt.md) | recruiting, engineering-leadership, technical-debt, hiring, tech-recruiting |
 | 2026-08-18 | [Applying the Hiring Funnel](./posts/2026-08-18-applying-the-hiring-funnel.md) | hiring, recruiting, engineering-management, leadership |
-| 2026-07-29 | [Empathy and the Hiring Process](./posts/2026-07-29-empathy-and-the-hiring-process) | hiring, recruiting, engineering-management, leadership, ai |
+| 2026-07-29 | [Empathy and the Hiring Process](./posts/2026-07-29-empathy-and-the-hiring-process.md) | hiring, recruiting, engineering-management, leadership, ai |
 | 2026-04-07 | [Dunbar Numbers and the Shape of Scaling Organizations](./posts/2026-04-07-dunbar-numbers-and-scaling-organizations.md) | scaling, organizational-design, dunbar-number, leadership, ai |
 | 2025-03-18 | [How Organizations Sabotage Themselves](./posts/2025-03-18-how-organizations-sabotage-themselves.md) | leadership, organizational-design, management |
 | 2025-03-11 | [Lessons from Sabotage](./posts/2025-03-11-lessons-from-sabotage.md) | leadership, organizational-design, management |
@@ -34,7 +35,7 @@ A collection of essays on engineering leadership, organizational design, and sca
 ## Structure
 
 ```
-/posts/       individual articles, Markdown with YAML frontmatter
+/posts/       individual articles, Markdown with YAML frontmatter, plus their images
 /style.css    optional lightweight stylesheet for static-site rendering
 README.md     this index
 ```
