@@ -1,5 +1,6 @@
 ---
 title: "A Manager's Most Important Work"
+description: "The people behaviors that move teams: coaching, empowering without micromanaging, inclusion, psychological safety, and career development."
 date: 2026-09-08
 tags: [management, ai, project-oxygen, psychological-safety]
 author: Jessica Gray

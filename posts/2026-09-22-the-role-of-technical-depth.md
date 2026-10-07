@@ -1,5 +1,6 @@
 ---
 title: "The Role of Technical Depth"
+description: "Where domain skill actually fits: technical skills, collaborating across the company, and making strong decisions."
 date: 2026-09-22
 tags: [management, ai, project-oxygen, decision-making]
 author: Jessica Gray

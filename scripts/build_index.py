@@ -38,6 +38,11 @@ def frontmatter(path):
     }
 
 
+def nbsp_date(date):
+    # Non-breaking hyphens keep GitHub from wrapping the date column at each "-".
+    return date.replace("-", "‑")
+
+
 def main():
     posts = sorted(
         (frontmatter(p) for p in (ROOT / "posts").glob("*.md")),
@@ -46,7 +51,7 @@ def main():
     )
     rows = ["| Date | Title | Tags |", "|---|---|---|"]
     rows += [
-        f"| {p['date']} | [{p['title']}](./posts/{p['file']}) | {', '.join(p['tags'])} |"
+        f"| {nbsp_date(p['date'])} | [{p['title']}](./posts/{p['file']}) | {', '.join(p['tags'])} |"
         for p in posts
     ]
     readme = README.read_text(encoding="utf-8")

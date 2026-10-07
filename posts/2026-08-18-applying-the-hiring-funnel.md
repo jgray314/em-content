@@ -1,5 +1,6 @@
 ---
 title: "Applying the Hiring Funnel"
+description: "How hiring managers use the hiring funnel to track and debug hiring, and what job searchers can take from it."
 date: 2026-08-18
 tags: [hiring, recruiting]
 author: Jessica Gray

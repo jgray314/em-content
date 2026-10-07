@@ -1,5 +1,6 @@
 ---
 title: "Lessons from Sabotage"
+description: "What a WWII field manual on sabotaging an organization from the inside teaches about individual behaviors: cooperation, motivation, and infrastructure."
 date: 2025-03-11
 tags: [organizational-design, management]
 author: Jessica Gray

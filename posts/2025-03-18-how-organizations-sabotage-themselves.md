@@ -1,5 +1,6 @@
 ---
 title: "How Organizations Sabotage Themselves"
+description: "How organizations institutionalize sabotage through process, decision-making, and management dysfunction."
 date: 2025-03-18
 tags: [organizational-design, management]
 author: Jessica Gray

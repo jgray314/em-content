@@ -1,5 +1,6 @@
 ---
 title: "Empathy and the Hiring Process"
+description: "Candidates, recruiters, and hiring managers all believe hiring is failing them, and they're all right. Empathy is a path to reduce the harm."
 date: 2026-07-29
 tags: [hiring, ai, recruiting]
 author: Jessica Gray

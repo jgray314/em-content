@@ -1,5 +1,6 @@
 ---
 title: "New Manager Traps"
+description: "Three traps on the IC-to-manager jump: treating management as a promotion, doing everything yourself, and not changing how you communicate."
 date: 2026-09-29
 tags: [management, engineering-leadership, new-managers, career-development]
 author: Jessica Gray

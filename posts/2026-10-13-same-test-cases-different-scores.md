@@ -1,5 +1,6 @@
 ---
 title: "Same Test Cases, Different Scores"
+description: "A score is only as trustworthy as what it's checked against. Lessons from building and testing an AI job-scoring tool."
 date: 2026-10-13
 tags: [ai, engineering-leadership, evaluation, verification]
 author: Jessica Gray

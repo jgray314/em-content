@@ -1,5 +1,6 @@
 ---
 title: "When Candidates Ask About Tech Debt"
+description: "What engineers really want to know when they ask about tech debt, and a playbook for recruiters fielding the question."
 date: 2026-08-25
 tags: [hiring, engineering-leadership, recruiting, technical-debt]
 author: Jessica Gray

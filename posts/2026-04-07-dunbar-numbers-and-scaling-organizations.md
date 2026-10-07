@@ -1,5 +1,6 @@
 ---
 title: "Dunbar Numbers and the Shape of Scaling Organizations"
+description: "Why organizations feel different past certain sizes, what Dunbar's layers mean for span of control, and why tools scale individuals but not groups."
 date: 2026-04-07
 tags: [organizational-design, ai, scaling, dunbar-number]
 author: Jessica Gray

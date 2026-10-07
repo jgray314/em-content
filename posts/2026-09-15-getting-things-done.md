@@ -1,5 +1,6 @@
 ---
 title: "Getting Things Done"
+description: "The execution behaviors behind results: productivity, effective communication, and a clear vision and strategy."
 date: 2026-09-15
 tags: [management, ai, project-oxygen, productivity]
 author: Jessica Gray

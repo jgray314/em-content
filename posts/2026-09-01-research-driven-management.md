@@ -1,5 +1,6 @@
 ---
 title: "Research Driven Management"
+description: "Why Google's Project Oxygen research on effective managers matters, what it studied, and what it means as AI changes how teams are run."
 date: 2026-09-01
 tags: [management, ai, project-oxygen]
 author: Jessica Gray
