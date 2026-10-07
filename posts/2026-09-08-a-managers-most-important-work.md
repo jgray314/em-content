@@ -3,6 +3,8 @@ title: "A Manager's Most Important Work"
 date: 2026-09-08
 tags: [management, ai, project-oxygen, psychological-safety]
 author: Jessica Gray
+series: "Re:Work Research on Management"
+series_part: 2
 ---
 # A Manager's Most Important Work
 

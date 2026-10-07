@@ -3,6 +3,8 @@ title: "Research Driven Management"
 date: 2026-09-01
 tags: [management, ai, project-oxygen]
 author: Jessica Gray
+series: "Re:Work Research on Management"
+series_part: 1
 ---
 # Research Driven Management
 

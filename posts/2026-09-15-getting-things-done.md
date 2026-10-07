@@ -3,6 +3,8 @@ title: "Getting Things Done"
 date: 2026-09-15
 tags: [management, ai, project-oxygen, productivity]
 author: Jessica Gray
+series: "Re:Work Research on Management"
+series_part: 3
 ---
 # Getting Things Done
 
