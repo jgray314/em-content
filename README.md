@@ -22,6 +22,7 @@ Generated from each post's frontmatter by `scripts/build_index.py`. Edit the fro
 <!-- posts:start -->
 | Date | Title | Tags |
 |---|---|---|
+| 2026‑10‑20 | [How Does AI Spending Stack Up](./posts/2026-10-20-how-does-ai-spending-stack-up.md) | ai, engineering-leadership, ai-costs, metrics |
 | 2026‑10‑13 | [Same Test Cases, Different Scores](./posts/2026-10-13-same-test-cases-different-scores.md) | ai, engineering-leadership, evaluation, verification |
 | 2026‑09‑29 | [New Manager Traps](./posts/2026-09-29-new-manager-traps.md) | management, engineering-leadership, new-managers, career-development |
 | 2026‑09‑22 | [The Role of Technical Depth](./posts/2026-09-22-the-role-of-technical-depth.md) | management, ai, project-oxygen, decision-making |
