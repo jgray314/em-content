@@ -16,7 +16,13 @@ While it is difficult to understand current norms it is useful to explore them. 
 
 ## Data Sources
 
-![Data Sources table. "Typical" AI spend per month, period covered, source: $52 median, $691 P90, Q1 2026, Jellyfish. $150 to $250, unknown, Anthropic. $481 P90, Feb to May 2026, LinearB. $178 median, $1,183 mean, unknown, Stanford AI Spend Index. $151 median, $755 mean, $1,785 P90, Oct 1 to 12 2026, Vantage.](./AiSpendDataSourcesTable.png)
+| "Typical" AI Spend per Month | Period Covered | Source |
+|---|---|---|
+| $52 median, $691 P90 | Q1 2026 | [Jellyfish](https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/) |
+| $150 to $250 | Unknown | [Anthropic](https://code.claude.com/docs/en/costs) |
+| $481 P90 | Feb to May 2026 | [LinearB](https://linearb.io/resources/ai-engineering-productivity-gap) |
+| $178 median, $1,183 mean | Unknown | [Stanford AI Spend Index](https://aispendindex.stanford.edu/) |
+| $151 median, $755 mean, $1,785 P90 | Oct 1 to 12, 2026 | [Vantage](https://tokens.vantage.sh/typical-spend) |
 
 ## Wide Adoption with a Heavy Tail
 
