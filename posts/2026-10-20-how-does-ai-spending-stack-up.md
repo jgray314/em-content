@@ -18,8 +18,6 @@ While it is difficult to understand current norms it is useful to explore them. 
 
 ![Data Sources table. "Typical" AI spend per month, period covered, source: $52 median, $691 P90, Q1 2026, Jellyfish. $150 to $250, unknown, Anthropic. $481 P90, Feb to May 2026, LinearB. $178 median, $1,183 mean, unknown, Stanford AI Spend Index. $151 median, $755 mean, $1,785 P90, Oct 1 to 12 2026, Vantage.](./AiSpendDataSourcesTable.png)
 
-Sources: [Jellyfish](https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/), [Anthropic](https://code.claude.com/docs/en/costs), [LinearB](https://linearb.io/resources/ai-engineering-productivity-gap), [Stanford AI Spend Index](https://aispendindex.stanford.edu/), [Vantage](https://tokens.vantage.sh/typical-spend)
-
 ## Wide Adoption with a Heavy Tail
 
 In 2026, a large majority of engineers are using AI at least occasionally, though [few PRs come from autonomous agents](https://linearb.io/resources/ai-engineering-productivity-gap) so far. [JetBrains](https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/) found 90% of developers use AI for coding at work at least weekly, with 68% using AI for coding daily. Only 23% of developers say they code mostly by hand, while 47% code AI-assisted, and 31% say AI mostly writes their code.
